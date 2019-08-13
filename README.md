@@ -1,5 +1,5 @@
 # c64x
-Code Base for the c64 "draw a cross" compo but Janne Hellsten
+My entries into the c64 "draw a cross" compo created by Janne Hellsten
 
 See:
 
